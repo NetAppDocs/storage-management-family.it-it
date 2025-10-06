@@ -1,0 +1,107 @@
+---
+product-family:
+  title: Gestione dello storage della console NetApp
+  lead: NetApp Console offre una gestione centralizzata dei servizi di storage e dati
+    in ambienti on-premise e multicloud.  Offre controllo unificato, semplicità operativa
+    e gestione sicura.  Sfoglia per prodotto di archiviazione o usa la ricerca.
+  summary: NetApp Console offre una gestione centralizzata dei servizi di storage
+    e dati in ambienti on-premise e multicloud.  Offre controllo unificato, semplicità
+    operativa e gestione sicura.  Sfoglia per prodotto di archiviazione o usa la ricerca.
+  sidebarlinks:
+  - title: Tutto
+    tags: all
+    class: active
+  - title: AWS
+    tags: aws
+  - title: Azzurro
+    tags: azure
+  - title: Google Cloud
+    tags: gcp
+  - title: Servizi dati NetApp
+    tags: data services
+  - title: Console NetApp
+    tags: console
+  - title: In sede
+    tags: on-prem
+  - title: Abbonamenti di archiviazione
+    tags: subscriptions
+  tiles:
+  - title: Note di rilascio
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: Scopri le novità sulla gestione dello storage NetApp Console e sui servizi
+      dati NetApp .
+    tags: all
+  - title: Amministrazione della console NetApp
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: Scopri come iniziare a utilizzare la console NetApp e amministrare la
+      gestione delle identità e degli accessi, gli agenti e altro ancora.
+    tags: all,connectors,iam
+  - title: Servizi dati NetApp
+    icon: "./media/icon-storagegrid.png"
+    url: "../data-services-family/index.html"
+    summary: Esplora i servizi dati NetApp per proteggere e proteggere la tua infrastruttura
+      dati.
+    tags: all,data services
+  - title: Amazon FSx for NetApp ONTAP
+    icon: "./media/icon-fsx.png"
+    url: "../storage-management-fsx-ontap/index.html"
+    summary: Sfrutta tutte le funzionalità di ONTAP come servizio nativo gestito da
+      AWS.
+    tags: all, aws
+  - title: Archiviazione Amazon S3
+    icon: "./media/icon-s3.png"
+    url: "../storage-management-s3-storage/index.html"
+    summary: Scopri e gestisci i bucket Amazon S3 nei tuoi account AWS.
+    tags: all,aws
+  - title: Archiviazione BLOB di Azure
+    icon: "./media/icon-azure-blob.png"
+    url: "../storage-management-blob-storage/index.html"
+    summary: Scopri e gestisci l'archiviazione BLOB di Azure nelle tue sottoscrizioni
+      di Azure.
+    tags: all,azure
+  - title: Azure NetApp Files
+    icon: "./media/icon-anf.png"
+    url: "../storage-management-azure-netapp-files/index.html"
+    summary: Servizio di archiviazione file ad alte prestazioni in Azure per le applicazioni
+      aziendali principali.
+    tags: all,storage,azure
+  - title: Cloud Volumes ONTAP
+    icon: "./media/icon-cvo.png"
+    url: "../storage-management-cloud-volumes-ontap/index.html"
+    summary: Rendi il tuo storage cloud più conveniente, intelligente, conforme e
+      sicuro.
+    tags: all,storage,aws,azure,gcp, subscriptions
+  - title: Sistemi della serie E
+    icon: "./media/icon-e-series.png"
+    url: "../storage-management-e-series/index.html"
+    summary: Scopri i sistemi E-Series per una visione completa dei dati nel tuo multicloud
+      ibrido.
+    tags: all,on-prem
+  - title: Google Cloud NetApp Volumes
+    icon: "./media/icon-cvs.png"
+    url: "../storage-management-google-cloud-netapp-volumes/index.html"
+    summary: Proteggi, rendi sicuro e accelera l'archiviazione dei tuoi file.
+    tags: all,storage,gcp
+  - title: Google Cloud Storage
+    icon: "./media/icon-google-cloud-storage.png"
+    url: "../storage-management-google-cloud-storage/index.html"
+    summary: Scopri e gestisci i bucket di Cloud Storage nel tuo account Google.
+    tags: all,gcp
+  - title: Keystone
+    icon: "./media/icon-keystone.png"
+    url: "../keystone-staas/index.html"
+    summary: Accedi e gestisci il tuo abbonamento Keystone dalla console NetApp .
+    tags: all,subscriptions
+  - title: Cluster ONTAP on-premise
+    icon: "./media/icon-onprem.png"
+    url: "../storage-management-ontap-onprem/index.html"
+    summary: Gestisci i tuoi cluster ONTAP on-premise dalla console NetApp utilizzando
+      System Manager e i servizi dati NetApp .
+    tags: all,on-prem
+  - title: StorageGRID
+    icon: "./media/icon-storagegrid.png"
+    url: "../storage-management-storagegrid/index.html"
+    summary: Gestisci i tuoi sistemi StorageGRID .
+    tags: all,on-prem
